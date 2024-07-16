@@ -1,4 +1,5 @@
-var a=10;
-var b=20;
-var c=30;
-var d=40;
+a=10
+b=20
+c=30
+var user=" user"
+var user=" mana"
